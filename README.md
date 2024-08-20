@@ -1,6 +1,6 @@
 # Super_AI_Engineer_SS4
 
-![](logo.jpg){ width="400" height="400" style="display: block; margin: 0 auto" }
+![](logo.jpg#center)
 
 Code used in Super AI Engineer Season 4 Level 2
 
