@@ -10,7 +10,7 @@ Image Search - Computer Vision Hackathon\
 https://www.kaggle.com/code/pitchayas/imagesearch-402521
 
 ThaiJO RESEARCHER - Data Science Hackathon\
-https://www.kaggle.com/code/pitchayas/thaijo-402521-1
+https://www.kaggle.com/code/pitchayas/thaijo-402521
 
 Ultra Wide Band Pose Prediction - Signal Processing Hackathon\
 https://www.kaggle.com/code/pitchayas/uwb-402521
