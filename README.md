@@ -52,3 +52,10 @@ https://gitlab.superai.aiat.or.th/402521/car-prediction-hackathon
 
 Temperature Prediction - IoTs and Robotics Hackathon\
 https://gitlab.superai.aiat.or.th/402521/temperature-prediction-hackathon
+
+## Extra
+
+Road Users Detection Based on CCTV Images
+[code](Hack_Human-Activity-Recognition)
+
+
