@@ -55,7 +55,8 @@ https://gitlab.superai.aiat.or.th/402521/temperature-prediction-hackathon
 
 ## Extra
 
-Road Users Detection Based on CCTV Images
-[code](Hack_Human-Activity-Recognition)
+[Road Users Detection Based on CCTV Images](Hack_Road-Users-Detection)
 
+[Human Activity Recognition](Hack_Human-Activity-Recognition)
 
+[Missing Pieces: The AI Image Completion](Hack_Image-Completion)
