@@ -40,8 +40,14 @@ Code used in Super AI Engineer Season 4
 
 ## Extra
 
-[Road Users Detection Based on CCTV Images](Hack_Road-Users-Detection)
+[Road Users Detection Based on CCTV Images](Hack_Road-Users-Detection.ipynb)
 
-[Human Activity Recognition](Hack_Human-Activity-Recognition)
+[Human Activity Recognition](Hack_Human-Activity-Recognition.ipynb)
 
-[Missing Pieces: The AI Image Completion](Hack_Image-Completion)
+[Missing Pieces: The AI Image Completion](Hack_Image-Completion.ipynb)
+
+[Data Science and Big Data (Epidemiology)](Hack_Epidemiology.ipynb)
+
+[Agriculture Classification](Hack_Agriculture-Classification.ipynb)
+
+[Solar Power Forecasting](Hack_Solar-Power-Forecasting.ipynb)
