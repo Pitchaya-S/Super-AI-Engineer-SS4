@@ -1,6 +1,6 @@
 # Super AI Engineer Season 4
 
-![](logo.png)
+<img src="logo.png" alt="Logo" width="300" height="auto" />
 
 Code used in Super AI Engineer Season 4
 
